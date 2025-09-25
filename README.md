@@ -41,8 +41,11 @@ With this website you are able to use tab button to go to each interactive optio
 
     2. the input elments in the comment form can be associated with ther labels using the <label> tag for your name and your comment. this tag is semantic html tag, which screenreaders can tell users that it is a  input label.
 
- ## The table 
+ ### The table 
     To make the table more acessible to screen readers, the td can be replaced with <th> tag which defines a header cell in an HTML table. and <scope> to tell what part it relates to like col for column or row for row. You can also use headers to tie one header to another. 
+
+ ### Other Accessiblity
+   Other acessiblity could be using larger text or using fonts for folks who have difficulty reading or reading disablity or whatever.
 
 ## Testing
 
