@@ -147,11 +147,11 @@ table {
   border-collapse: collapse;
 }
 
-th, td {
+th {
   padding: 10px;
 }
 
-td {
+th {
   text-align: center;
 }
 
